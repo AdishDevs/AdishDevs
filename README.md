@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdishDevs 🚀
 - 👨‍💻 Software Engineering undergraduate exploring Python.
 - 👀 Excitedly delving into AI and machine learning.
-- 🏆 Eager to collaborate in the world of software development.
 - 📫 How to reach me: adishkanimsara.adikari@gmail.com
 
 <!---
