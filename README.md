@@ -37,20 +37,6 @@ I'm an aspiring **iOS engineer** with a passion for crafting beautiful and funct
   
 </p>
 
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdishDevs&show_icons=true&theme=radical" alt="Adishka's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdishDevs&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdishDevs&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-
 ### Connect With Me
 
 <p>
