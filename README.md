@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 I'm an aspiring **iOS engineer** with a passion for crafting beautiful and functional applications. My journey as a developer involves building innovative projects, learning cutting-edge tools, and solving real-world problems through code. 
 
 🏫 **BEng (Hons) Software Engineering** - University of Westminster  
-🎓 **Second-Year Undergraduate**
+🎓 **Intern iOS Developer**
 
 - 🌱 I’m currently mastering **Swift** and **iOS development** to create seamless mobile experiences.
 - 🚀 Exploring **Flutter** for cross-platform development.
@@ -45,8 +45,6 @@ I'm an aspiring **iOS engineer** with a passion for crafting beautiful and funct
 </p>
 
 
-
----
 
 
 
