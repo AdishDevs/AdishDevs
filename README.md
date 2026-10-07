@@ -16,7 +16,6 @@ I'm an aspiring **iOS engineer** with a passion for crafting beautiful and funct
 🎓 **iOS Developer**
 
 - 🌱 I’m currently mastering **Swift** and **iOS development** to create seamless mobile experiences.
-- 🚀 Exploring **Flutter** for cross-platform development.
 - 💡 Passionate about design, user experience, and writing clean, efficient code.
 - 👨🏻‍💻 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/adishka-nimsara-768535239/) & [X](https://x.com/adishkanimsara?s=11).
 - 📫 How to reach me: adishkanimsara.adikari@gmail.com
